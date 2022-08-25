@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- :star: :waxing_gibbous_moon: :star: :star:
+- :star: :star: :waxing_gibbous_moon: :star:
 - :star: :rocket: :star:
 - :earth_asia: :star:
 - :star: :star:
