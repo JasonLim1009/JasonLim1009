@@ -10,5 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-:full_moon:
-U+1F30F	
+:star: :star: :full_moon: :star: :star:
+:star: :star: :star:
+:star: :rocket: :star:
+:star: 
+:earth_asia: :star:
+:star: :star:
