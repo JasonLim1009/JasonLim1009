@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 - :earth_asia: :star:
 
 
-mdi-language-html5
+
+<i className="mdi-language-html5"></i>
