@@ -16,4 +16,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<i className="mdi-language-html5"></i>
